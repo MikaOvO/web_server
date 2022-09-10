@@ -1,0 +1,2 @@
+/usr/bin/ar qc libWebServer.a  CMakeFiles/WebServer.dir/epoll_utils.cpp.o CMakeFiles/WebServer.dir/http.cpp.o CMakeFiles/WebServer.dir/log.cpp.o CMakeFiles/WebServer.dir/safe_queue.cpp.o CMakeFiles/WebServer.dir/server_utils.cpp.o CMakeFiles/WebServer.dir/thread_pool.cpp.o CMakeFiles/WebServer.dir/timer.cpp.o CMakeFiles/WebServer.dir/utils.cpp.o CMakeFiles/WebServer.dir/work_thread.cpp.o
+/usr/bin/ranlib libWebServer.a
