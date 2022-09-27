@@ -15,7 +15,7 @@
 int main() {
     ServerUtils server;
     
-    server.Init(8088, 0, 0);
+    server.Init(8088, 0, 1);
 
     server.EventListen();
 
