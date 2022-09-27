@@ -16,6 +16,6 @@ cmake .. && make
 
 压测：
 
-ET非阻塞：
+ET非阻塞（QPS 1.7w）：
 
 ![image](https://user-images.githubusercontent.com/93330615/192477919-5403dcb0-49b7-4d95-b632-59281db94996.png)
